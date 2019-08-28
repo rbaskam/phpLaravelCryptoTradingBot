@@ -13,3 +13,8 @@ Full Guide [here](https://www.robert-askam.co.uk/posts/post/building-a-crypto-tr
 
 ## Existing Project
 Follow this [tutorial](https://www.robert-askam.co.uk/posts/post/building-a-crypto-trading-bot-in-laravel-using-php-and-binance) 
+
+
+## Notes
+On your local run php artisan schedule:run
+On live set up the laravel cron job
